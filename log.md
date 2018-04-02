@@ -90,6 +90,56 @@
 
 **Thoughts:**  Yous should probably log along the way... (-_-)
 
+### Day 15: March 25, 2018
+
+**Today's Progress**:  More Ruby pracctice, fixing backup drive partitioning, and updates to CSF logos.
+
+**Thoughts:**   The backup drive partitioning was much more work than expected.
+
+### Day 16: March 26, 2018
+
+**Today's Progress**:  More investigating Wordpress shortcodes
+
+**Thoughts:**   I uncovered a great plugin to help my original plugin problem. I don't really like using a plugin to solve another plugin (especially since they can cause conflicts down the road).
+
+### Day 17: March 27, 2018
+
+**Today's Progress**:  Creating curated schedule pages and confirmed the contact form working (!!!)
+
+**Thoughts:**   Hooray for a working contact form
+
+### Day 18: March 28, 2018
+
+**Today's Progress**:  Started php lessons, investigated draft versus delete in WP fixed centering issue
+
+**Thoughts:**   PHP!
+
+### Day 19: March 29, 2018
+
+**Today's Progress**:  Fixed shortcode problem by fixing functions.php in child theme and added new pages
+
+**Thoughts:**   Starting to chain together php concepts
+
+### Day 20: March 30, 2018
+
+**Today's Progress**:  ---
+
+**Thoughts:**   ---
+
+### Day 21: March 31, 2018
+
+**Today's Progress**:  ---
+
+**Thoughts:**   ---
+
+### Day 22: April 1, 2018
+
+**Today's Progress**:  Site cleanup and logging
+
+**Thoughts:**   Need to get some progress on other projects
+
+
+
 
 
 
